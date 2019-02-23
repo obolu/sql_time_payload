@@ -1,0 +1,2 @@
+# sql_time_payload
+记录一下sql注入time盲注留个模板吧
